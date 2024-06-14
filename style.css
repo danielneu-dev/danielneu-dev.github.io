@@ -727,6 +727,10 @@ span {
     margin-top: 3rem;
   }
 
+  .home-content h3 {
+    font-size: 1.8rem;
+  }
+
   .home-content p {
     max-width: 600px;
     margin: 0 auto;
@@ -743,5 +747,9 @@ span {
 
   .projects-container {
     grid-template-columns: repeat(1, 1fr);
+  }
+
+  .project-info h4 {
+    font-size: 1.8rem;
   }
 }
