@@ -263,15 +263,15 @@ span {
 @keyframes words {
   0%,
   20% {
-    content: "Amateur Frontend Designer";
+    content: "lernender Frontend Entwickler";
   }
   21%,
   40% {
-    content: "Hobby Web Designer";
+    content: "Student der Medizinischen Informatik";
   }
   41%,
   60% {
-    content: "lernender UI / UX Designer";
+    content: "lernender Frontend Entwickler";
   }
   61%,
   80% {
