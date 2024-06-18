@@ -442,6 +442,7 @@ span {
   border-radius: 3rem;
   border: 5px solid transparent;
   transition: 0.4s ease-in-out;
+  cursor: pointer;
 }
 
 .project-box:hover {
@@ -643,6 +644,10 @@ span {
   text-align: center;
   font-size: 16px;
   color: white;
+}
+
+.projects-container a {
+  color: black;
 }
 
 @media(max-width: 1285px) {
