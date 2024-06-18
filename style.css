@@ -646,7 +646,8 @@ span {
   color: white;
 }
 
-.projects-container a {
+.projects-container a h4,
+.projects-container a p {
   color: black;
 }
 
