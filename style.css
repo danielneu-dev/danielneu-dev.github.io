@@ -646,11 +646,6 @@ span {
   color: white;
 }
 
-.projects-container a h4,
-.projects-container a p {
-  color: black;
-}
-
 @media(max-width: 1285px) {
   html {
     font-size: 55%;
